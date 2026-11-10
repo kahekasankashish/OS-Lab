@@ -22,7 +22,3 @@ This repository contains shell scripting exercises, process management demonstra
 - **Compiler:** GCC
 - **Operating System:** Linux / Unix-like environment
 - **System Calls:** `fork()`, `getpid()`, `getppid()` and `wait()`
-
-##
-
-##
