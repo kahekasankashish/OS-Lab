@@ -1,0 +1,38 @@
+# Compiled C files
+*.o
+*.a
+*.so
+*.out
+*.exe
+core
+core.*
+
+# Generated executables
+fcfs
+fcfs_cpu_scheduling_method_1
+fcfs_cpu_scheduling_method_2
+demonstrate_fork_system_call
+display_process_id
+display_parent_and_child_process_ids
+child_factorial_parent_even_odd
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
